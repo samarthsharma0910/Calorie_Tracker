@@ -1,0 +1,12 @@
+Meal Name	Calories (kcal)
+-------------------------------
+Breakfast		40.0
+Lunch		50.0
+Dinner		50.0
+Snacks		60.0
+
+Total Calories Consumed:	 200.0 kcal
+
+Average Calories per Meal:	 50.0 kcal
+
+Log Date and Time: 2025-11-06 13:44:57.588899
